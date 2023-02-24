@@ -1,0 +1,14 @@
+:root {
+    /* Fonts */
+    --grave-bold: "gravesend-sans", sans-serif;
+    /* Colors */
+    --bg-color:#363636;
+    --txt-color: #FFFFFF;
+    --btn-color: #5D5D5D;
+    --btn-hover-color: #575555;
+    /* blurs, opacity, shadows*/
+    --bg-opacity: linear-gradient(rgba(0,0,0, 0.15),rgba(0,0,0, 0.15));
+    --bg-blur: brightness(-4) blur(3rem);
+    --img-opacity: linear-gradient(rgba(0,0,0, 0.45),rgba(0,0,0, 0.45));
+    --img-blur: blur(5rem);
+}
